@@ -1,2 +1,2 @@
 # Java-Training-2018
-release training
+release training 2 
